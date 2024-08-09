@@ -43,4 +43,3 @@ my5G-RANTester borrows libraries and data structures from the [free5gc project](
 ## License
 
 Apache 2.0
-bkcd
